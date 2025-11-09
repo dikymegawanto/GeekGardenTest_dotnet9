@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GeekGarden.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2d237864f319968bda01251d7002fe42717f7a98")]
 [assembly: System.Reflection.AssemblyProductAttribute("GeekGarden.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GeekGarden.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
